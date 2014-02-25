@@ -1,2 +1,2 @@
-test
-====
+This is just a test project.
+A first move for understanding the git version control system... 
